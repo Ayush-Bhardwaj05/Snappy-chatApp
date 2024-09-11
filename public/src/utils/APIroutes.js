@@ -1,18 +1,18 @@
-// const host = "http://localhost:5000";
-// export const registerRoute = `${host}/api/auth/register`;
+const host = "http://localhost:5000";
 
-// export const loginRoute = `${host}/api/auth/login`;
+const registerRoute = `${host}/api/auth/register`;
+const loginRoute = `${host}/api/auth/login`;
+const setAvatarRoute = `${host}/api/auth/setAvatar`;
+const allUsersRoute = `${host}/api/auth/allUsers`;
+const sendMessageRoute = `${host}/api/messages/addmsg`;
+const getAllMessageRoute = `${host}/api/messages/getmsg`;
 
-// export const setAvatarRoute = `${host}/api/auth/setAvatar`;
-
-// export const allUsersRoute = `${host}/api/auth/allUsers`;
-
-export const host = "http://localhost:5000";
-
-export const registerRoute = `${host}/api/auth/register`;
-export const loginRoute = `${host}/api/auth/login`;
-export const setAvatarRoute = `${host}/api/auth/setAvatar`;
-export const allUsersRoute = `${host}/api/auth/allUsers`;
-export const sendMessageRoute = `${host}/api/messages/addmsg`;
-export const getAllMessageRoute = `${host}/api/messages/getmsg`;
-
+module.exports = {
+  host,
+  registerRoute,
+  loginRoute,
+  setAvatarRoute,
+  allUsersRoute,
+  sendMessageRoute,
+  getAllMessageRoute
+};
