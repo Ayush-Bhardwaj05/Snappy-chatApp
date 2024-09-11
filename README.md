@@ -1,7 +1,3 @@
-Here's the updated `README.md` file with explanations for the **Register**, **Login**, and **Chat** pages:
-
----
-
 # Snappy ChatApp
 
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to register, log in, and engage in real-time chat. It features a smooth user interface, emoji picker integration, and message synchronization. This app focuses on providing an interactive and real-time chatting experience.
