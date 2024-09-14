@@ -43,7 +43,8 @@ The **Chat Page** is where users engage in real-time conversations with each oth
 - **Real-Time Updates**: Messages are displayed in real-time as users send them, and they appear in chronological order.
 - **User Feedback**: Toast notifications inform users of successful message sending or errors.
 
-![image](https://github.com/user-attachments/assets/de93d29f-7640-4416-a439-4f86f19163cc)
+![image](https://github.com/user-attachments/assets/3a65295c-fa23-45ca-990f-0d83448437ed)
+
 
 
 ### Getting Started
