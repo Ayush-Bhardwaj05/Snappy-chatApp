@@ -124,7 +124,3 @@ To run the project locally, you will need to install the following dependencies:
 - **Real-Time**: WebSockets (or your method of real-time communication)
 - **Notifications**: Toast notifications (react-toastify)
 - **User Feedback**: Emoji picker (emoji-mart)
-
----
-
-This version includes placeholders for where you can insert images/screenshots of the **Register**, **Login**, and **Chat** pages.
